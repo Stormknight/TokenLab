@@ -4,6 +4,7 @@
 Race:<race>
 Class:<class(es)>
 Level
+XP
 Gender:<gender>
 Height:0'0"
 Weight:0 lb
@@ -152,3 +153,4 @@ VERSION: 0.19
 W:'(W)'
 ABILITY_NAMES:["Strength", "Constitution", "Dexterity", "Intelligence", "Wisdom", "Charisma"]
 ABILITY_VARS:["StrBonus","StrBonus1.5", "ConBonus", "DexBonus", "IntBonus", "WisBonus", "ChaBonus"]
+htmlCache
