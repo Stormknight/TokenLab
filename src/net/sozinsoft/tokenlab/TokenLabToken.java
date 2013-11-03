@@ -30,6 +30,7 @@ public class TokenLabToken {
     public static final String WEIGHT = "Weight";
     private static final String SPEED = "Speed";
     private static final String LEVEL = "Level";
+    private static final String XP_Total = "XP";
     private static final String CLASS_HP = "ClassHP";
     private static final String BASE_ATTACK_BONUS = "BaseAttackBonus";
 
@@ -61,6 +62,7 @@ public class TokenLabToken {
         propertyMap.put(WEIGHT, character.getWeight() );
         propertyMap.put(SPEED, character.getSpeed() );
         propertyMap.put(LEVEL, character.getLevel() );
+        propertyMap.put(XP, character.getXP() );
         propertyMap.put(CLASS, character.getClassAbbreviation() );
 
 
