@@ -18,7 +18,7 @@
 	"Race | " + Race + " | Race | TEXT | WIDTH=30",
 	"Alignment | " + Alignment + " | Alignment | TEXT | WIDTH=30",
 	"Deity | " + Deity + " | Deity | TEXT | WIDTH=30",
-	"Occupation | " + Occupation + " | Occupation | TEXT | WIDTH=30",
+	"Class | " + Class + " | Class | TEXT | WIDTH=30",
 	"Languages | " + Languages + " | Languages | TEXT | WIDTH=30",
 	"Gender | " + Gender + " | Gender | TEXT | WIDTH=6",
 	"Height | " + Height + " | Height | TEXT | WIDTH=6",
